@@ -6,7 +6,7 @@ I'm Yevhen, a 14-year-old Python developer from Ukraine. I have been passionate 
 
 - **Backend Development:**
   - Python
-  - WSGI
+  - WSGI/ASGI
   - Flask
   - Django
 
