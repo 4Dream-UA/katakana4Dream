@@ -26,7 +26,7 @@ I'm continuously expanding my knowledge in full-stack development. Currently, I'
 
 ### 🌐 Connect with Me
 
-- **GitHub:** [github.com](https://github.com/https://github.com/pipStealth)
+- **GitHub:** [github.com](https://github.com/pipStealth)
 - **VK:** [vk.com](vk.com/bro.goust) 
 - **E-mail:** goustg62@gmail.com
 
