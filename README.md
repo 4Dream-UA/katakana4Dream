@@ -4,9 +4,9 @@ I'm Yevhen, a 14-year-old Python developer from Ukraine. I have been passionate 
 
 ### 🌟 Skills and Technologies
 
-- **Backend Development:** - Python - WSGI/ASGI - Flask - Django
+- **Backend Development:** Python | WSGI/ASGI | Flask | Django
 
-- **Frontend Development:** - HTML5 - CSS - Angular
+- **Frontend Development:** HTML5 | CSS | Angular(js)
 
 ### 🌱 What I'm Learning
 
