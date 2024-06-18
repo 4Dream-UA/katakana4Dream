@@ -5,7 +5,7 @@ I know English, Ukraine, Belarussian, Russian language. I learn Spain language.
 
 ### 🌟 Skills and Technologies
 
-- **Backend Development:** Python, WSGI/ASGI, Flask, Django
+- **Backend Development:** Python, WSGI/ASGI, Flask, Django, Aiogram | SQL
 - **Frontend Development:** HTML5, CSS, Angular(js)
 - **Another skill:** Base Go
 
