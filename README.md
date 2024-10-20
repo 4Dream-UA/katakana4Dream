@@ -1,6 +1,6 @@
 ### 👋 Hello, World!
 
-I'm Yevhen, a 14-year-old Python developer from Ukraine. I have been passionate about coding since 2022 and have focused on building my skills in both backend and frontend development.
+I'm Yevhen, Python developer from Ukraine. I have been passionate about coding since 2022 and have focused on building my skills in both backend and frontend development.
 I know English, Ukraine, Belarussian, Russian language. Also understand Poland language and learn Spain language.
 
 ### 🌟 Skills and Technologies that I use
