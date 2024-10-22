@@ -5,7 +5,7 @@ I know English, Ukraine, Belarussian, Russian language. Also understand Poland l
 
 ### 🌟 Skills and Technologies that I use
 
-- **Programming language:** Python, Base Golang
+- **Programming language:** Python, Base Golang, Base JS
 - **DataBase Development:** SQLite, PostgreSQL, MySQL
 - **Backend Development:** Flask, Django with WSGI/ASGI
 - **Frontend Development:** HTML5, CSS
