@@ -2,7 +2,7 @@
 (*open to contribution*)
 I'm Yevhen, Python developer from Ukraine. I have been passionate about coding since 2022 and have focused on building my skills in Python Development.
 
-![image](https://github.com/user-attachments/assets/838356a6-4251-4b43-bcd2-5d25e78df696)
+![image](https://github.com/user-attachments/assets/96fecb07-6f5a-4acb-88b9-33f663f91d6b)
 
 - **Main programming language:** Python
 - **Another programming language:** JavaScript.
@@ -11,7 +11,7 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 - **Frontend Development:** HTML5, CSS, Angular.
 - **Another:** NumPy, Selenium.
 
-![image](https://github.com/user-attachments/assets/7e39956e-d4fa-4ba6-81ed-c1acb4da2953)
+![image](https://github.com/user-attachments/assets/2b3f819c-b3e2-4f26-a0a8-1ebb7bd56c15)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=prizrak3742&theme=dark)](https://git.io/streak-stats)
@@ -21,7 +21,7 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prizrak3742)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![image](https://github.com/user-attachments/assets/0cbb8e67-e30a-4abf-a921-84484a5b1586)
+![image](https://github.com/user-attachments/assets/ae5f0218-b4d1-453d-848d-fbdf55dc8716)
 
 ### 🌐 Connect with Me
 
