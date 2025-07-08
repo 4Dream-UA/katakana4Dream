@@ -17,7 +17,7 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prizrak3742&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prizrak3742)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prizrak3742&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://github.com/user-attachments/assets/143c333e-40ac-4bea-9468-52357149372c)
 
