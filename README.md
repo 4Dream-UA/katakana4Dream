@@ -1,7 +1,6 @@
 ### 👋 Hello, World!
 (*open to contribution*)
 I'm Yevhen, Python developer from Ukraine. I have been passionate about coding since 2022 and have focused on building my skills in Python Development.
-
 ![image](https://github.com/user-attachments/assets/96fecb07-6f5a-4acb-88b9-33f663f91d6b)
 
 - **Main programming language:** Python
@@ -20,9 +19,7 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prizrak3742)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ![image](https://github.com/user-attachments/assets/ae5f0218-b4d1-453d-848d-fbdf55dc8716)
-
 ### 🌐 Connect with Me
 
 - **GitHub:** [github.com](https://github.com/pipStealth)
