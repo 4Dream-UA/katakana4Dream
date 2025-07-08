@@ -9,7 +9,7 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 - **Frontend Development:** HTML5, CSS, Angular.
 - **Another:** NumPy, Selenium.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prizrak3742)](https://git.io/streak-stats)
 
 ### 🌐 Connect with Me
 
