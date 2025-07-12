@@ -13,7 +13,6 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 ![image](https://github.com/user-attachments/assets/7fd1aede-ae2a-4218-ae35-9b843ac6098b)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=katakana4Dream&theme=dark)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakana4Dream&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +22,6 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 ### 🌐 Connect with Me
 
-- **GitHub:** [github.com](https://github.com/pipStealth)
+- **GitHub:** [github.com](https://github.com/katakana4Dream)
 - **Discord:** [discord.com](https://discord.com/users/970993563460587560)
 - **E-mail:** goustg62@gmail.com
