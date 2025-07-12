@@ -13,11 +13,11 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 ![image](https://github.com/user-attachments/assets/7fd1aede-ae2a-4218-ae35-9b843ac6098b)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prizrak3742&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=katakana4Dream&theme=dark)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prizrak3742&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakana4Dream&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prizrak3742&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katakana4Dream&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://github.com/user-attachments/assets/143c333e-40ac-4bea-9468-52357149372c)
 
