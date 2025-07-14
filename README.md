@@ -14,14 +14,14 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 ![image](https://github.com/user-attachments/assets/7fd1aede-ae2a-4218-ae35-9b843ac6098b)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakana4Dream&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4Dream-UA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katakana4Dream&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4Dream-UA&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![image](https://github.com/user-attachments/assets/143c333e-40ac-4bea-9468-52357149372c)
 
 ### 🌐 Connect with Me
 
-- **GitHub:** [github.com](https://github.com/katakana4Dream)
+- **GitHub:** [github.com](https://github.com/4Dream-UA)
 - **Discord:** [discord.com](https://discord.com/users/970993563460587560)
 - **E-mail:** goustg62@gmail.com
