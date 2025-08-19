@@ -4,12 +4,16 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 ![image](https://github.com/user-attachments/assets/5eabbba2-b09e-4681-834d-234b5511654c)
 
-- **Main programming language:** Python
-- **Another programming language:** JavaScript.
-- **DataBase Development:** SQLite, PostgreSQL, MySQL.
-- **Backend Development:** Flask, FastAPI, Django.
-- **Frontend Development:** HTML5, CSS, Angular.
-- **Another:** NumPy, Selenium.
+- **Programming languages:** Python, JavaScript.
+- **DataBase Development:** SQLite, PostgreSQL, MySQL, MongoDB, Apache Cassandra.
+- **Backend Development:** Flask, FastAPI, Django; (MVT and REST).
+- **Frontend Development:** HTML5, CSS, Angular, React.
+- **Data Engineering:** Pandas, NumPy, Matplotlib, PyTorch, Selenium, Scrapy, Aiogram, Disnake, Beautiful Soup, Asyncio.
+- **Software Engineering:** Asynchronous, SOLID, TDD, BDD, CI/CD.
+- **Data Analytics:** AsyncETL, Tableau.
+- **Cloud:** AWS.
+- **Computer Science:** Algorithms, Data Structures.
+- **Management:** ClickUp, Notion.
 
 ![image](https://github.com/user-attachments/assets/7fd1aede-ae2a-4218-ae35-9b843ac6098b)
 
