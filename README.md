@@ -28,4 +28,5 @@ I'm Yevhen, Python developer from Ukraine. I have been passionate about coding s
 
 - **GitHub:** [github.com](https://github.com/4Dream-UA)
 - **Discord:** [discord.com](https://discord.com/users/970993563460587560)
+- **Community:** [4dream.discord](https://discord.gg/6MbYCn2MpH)
 - **E-mail:** goustg62@gmail.com
